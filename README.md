@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @guilherme-gonzalez
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and doing css projects
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning the cloud, docker and pyspark
 - 📫 How to reach me guilhermegonzlez@gmail.com
 
 <!---
