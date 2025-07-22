@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @guilherme-gonzalez
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning the cloud, docker and pyspark
+- I mainly work with data engineering
 - 📫 How to reach me guilhermegonzlez@gmail.com
 
 <!---
